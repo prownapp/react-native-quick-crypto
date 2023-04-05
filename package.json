@@ -66,6 +66,7 @@
     "react-native": "*"
   },
   "publishConfig": {
+    "access": "public",
     "registry": "https://npm.pkg.github.com"
   },
   "release-it": {
