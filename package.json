@@ -38,13 +38,13 @@
     "fast",
     "web3"
   ],
-  "repository": "https://github.com/margelo/react-native-quick-crypto",
+  "repository": "https://github.com/prownapp/react-native-quick-crypto",
   "authors": "Szymon Kapała (szymon20000@gmail.com) & Marc Rousavy <me@mrousavy.com> (https://github.com/mrousavy)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/margelo/react-native-quick-crypto/issues"
+    "url": "https://github.com/prownapp/react-native-quick-crypto/issues"
   },
-  "homepage": "https://github.com/margelo/react-native-quick-crypto#readme",
+  "homepage": "https://github.com/prownapp/react-native-quick-crypto#readme",
   "devDependencies": {
     "@jamesacarr/eslint-formatter-github-actions": "^0.1.0",
     "@react-native-community/eslint-config": "^3.0.1",
