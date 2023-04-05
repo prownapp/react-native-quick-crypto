@@ -1,5 +1,5 @@
 {
-  "name": "react-native-quick-crypto",
+  "name": "@prownapp/react-native-quick-crypto",
   "version": "0.5.0",
   "description": "A fast implementation of Node's `crypto` module written in C/C++ JSI",
   "main": "lib/commonjs/index",
@@ -45,9 +45,6 @@
     "url": "https://github.com/margelo/react-native-quick-crypto/issues"
   },
   "homepage": "https://github.com/margelo/react-native-quick-crypto#readme",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  },
   "devDependencies": {
     "@jamesacarr/eslint-formatter-github-actions": "^0.1.0",
     "@react-native-community/eslint-config": "^3.0.1",
@@ -67,6 +64,9 @@
   "peerDependencies": {
     "react": "*",
     "react-native": "*"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "release-it": {
     "git": {
